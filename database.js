@@ -1,5 +1,6 @@
-export function updateData(data) {
+function updateData(data) {
     // Implementação do banco de dados
     console.log(`[database]: Saving data ${data}`);
 }
 
+module.exports = { updateData }
