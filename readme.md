@@ -1,4 +1,4 @@
-## Webhook
+## Webhook server scaffold example
 
 ### nodejs + express
 
